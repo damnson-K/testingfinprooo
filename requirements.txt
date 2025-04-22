@@ -6,7 +6,6 @@ seaborn
 missingno
 scipy
 statsmodels
-scikit-learn
 category-encoders
 imblearn
 xgboost
@@ -15,3 +14,4 @@ catboost
 shap
 streamlit
 joblib
+scikit-learn==1.5.2
